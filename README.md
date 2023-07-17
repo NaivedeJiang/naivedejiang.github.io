@@ -1,4 +1,4 @@
-# Naive de Jiang's Personal Website.
+# Naive de Jiang's Personal Webpage.
 Yo dawg, check this out. 
 
 ## Are you serious?

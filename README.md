@@ -1,4 +1,4 @@
-# JYY's Personal Webpage \ JYY的个人网页
+# Naive de Jiang's Personal Website.
 Yo dawg, check this out. 
 
 ## Are you serious?

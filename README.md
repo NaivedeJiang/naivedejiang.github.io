@@ -1,17 +1,17 @@
 # Naive de Jiang's Personal Webpage.
 Yo dawg, check this out. It's [free real estate](https://www.gov.cn/zhengce/2022-04/18/content_5685895.htm). 😀
 
-## i. About the site
+## About the site
 The site is used as a portfolio as well as a repo containing useful stuffs for its author. It is meant to be a partial cyber projection of the author. 
 
-## ii. About
+## About
 TODO
 
 Links:
 - [Bilibili](https://space.bilibili.com/745487)
 - [MuseScore](https://musescore.com/user/30154473)
 
-## iii. Contents
+## Contents
 - Publications
 - Projects
 - Arts

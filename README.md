@@ -1,4 +1,4 @@
-# Naive de Jiang's Personal Webpage.
+# Naive de Jiang's Personal Webpage
 Yo dawg, check this out. It's [free real estate](https://www.gov.cn/zhengce/2022-04/18/content_5685895.htm). 😀
 
 ## About the site

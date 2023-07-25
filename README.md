@@ -1,5 +1,6 @@
-# Naive de Jiang's Personal Webpage
-Yo dawg, check this out. It's [free real estate](https://www.gov.cn/zhengce/2022-04/18/content_5685895.htm). 😀
+# Naive de Jiang's 😀   
+# Personal Webpage
+Yo dawg, check this out. It's [free real estate](https://www.gov.cn/zhengce/2022-04/18/content_5685895.htm).   
 The site is used as a portfolio as well as a repo containing useful stuffs for its author. It is meant to be a partial cyber projection of the author. 
 
 ## About

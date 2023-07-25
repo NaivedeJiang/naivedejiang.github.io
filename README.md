@@ -5,7 +5,7 @@ The site is used as a portfolio as well as a repo containing useful stuffs for i
 ## About
 TODO
 Latest Bilibili video: 
-<iframe src="//player.bilibili.com/player.html?aid=230898010&bvid=BV1Z8411D7Fk&cid=1196809170&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480" width="auto"> 嗨嗨害 </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=230898010&bvid=BV1Z8411D7Fk&cid=1196809170&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="480" > 嗨嗨害 </iframe>
 
 Links:
 - [Bilibili](https://space.bilibili.com/745487)
@@ -19,8 +19,7 @@ Links:
 - Author's hobbies
 - Useful links
 
------------------
------------------
+--------------------------------
 
 ## 1. Publications
 TODO
